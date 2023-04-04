@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 50.0 20.0"
+	enable-background="new 0 0 50.0 20.0"
+	xml:space="preserve">
+	<path
+		fill="#3DDC84"
+		stroke="#3DDC84"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.7384494"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M45.50,7.70L47.14,1.09"/>
+	<path
+		fill="#3DDC84"
+		stroke="#3DDC84"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.7384494"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M39.98,7.66L38.34,1.06"/>
+	<path
+		fill="#3DDC84"
+		stroke="#FF0094"
+		fill-opacity="1.000"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="0.51714253"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M35.75,19.08C36.81,-2.04,48.96,0.19,49.75,19.08M39.51,11.63C39.18,11.63,38.92,12.24,38.92,12.99C38.92,13.75,39.18,14.36,39.51,14.36C39.83,14.36,40.10,13.75,40.10,12.99C40.10,12.24,39.83,11.63,39.51,11.63zM45.98,11.67C45.66,11.67,45.40,12.27,45.40,13.02C45.40,13.76,45.66,14.36,45.98,14.36C46.29,14.36,46.55,13.76,46.55,13.02C46.55,12.27,46.29,11.67,45.98,11.67z"/> 
+
+	<text 
+		font-size="24.032763"
+		font-family="default"
+		fill="#3DDC84"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 44.904316 12.217135) scale(0.39728665 1.0)" >
+
+		<tspan x="0.0" y="19.164135">android</tspan>
+	</text>
+</svg>

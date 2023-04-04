@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 24.0 10.0"
+	enable-background="new 0 0 24.0 10.0"
+	xml:space="preserve">
+	<path
+		fill="#00A4EF"
+		stroke="#00A4EF"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.15857601"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M0.91,1.40L4.08,1.40L4.08,4.57L0.91,4.57z"/>
+	<path
+		fill="#00A4EF"
+		stroke="#00A4EF"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.15857601"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M4.72,1.40L7.89,1.40L7.89,4.57L4.72,4.57z"/>
+	<path
+		fill="#00A4EF"
+		stroke="#00A4EF"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.15857601"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M0.91,5.10L4.08,5.10L4.08,8.27L0.91,8.27z"/>
+	<path
+		fill="#00A4EF"
+		stroke="#00A4EF"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.15857601"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M4.72,5.10L7.89,5.10L7.89,8.27L4.72,8.27z"/> 
+
+	<text 
+		font-size="6.499998"
+		font-family="default"
+		fill="#00A4EF"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 38.316635 4.56904) scale(0.5254784 1.0)" >
+
+		<tspan x="15.919344" y="7.0575395">Windows</tspan>
+	</text>
+</svg>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 24.0 10.0"
+	enable-background="new 0 0 24.0 10.0"
+	xml:space="preserve">
+<defs>
+	<style type="text/css">
+		@font-face {
+			font-family: 'roboto'; 
+			src: url('./roboto.ttf');
+		}
+	</style>
+</defs>
+	<path
+		fill="#FFFFFF"
+		stroke="#1AF500"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="1.0466652"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M0.99,0.83L3.50,5.00L0.99,9.17"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#1AF500"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="1.0466652"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M3.74,9.17L7.19,9.17"/>
+
+	<text 
+		font-size="6.1550984"
+		font-family="roboto"
+		stroke-width="0.29904723"
+		stroke="#FF3131"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 21.578342 5.000002) scale(0.61994106 1.0)" >
+		<tspan x="12.666452" y="7.3090014">T</tspan>
+	</text> 
+
+	<text 
+		font-size="6.1550984"
+		font-family="roboto"
+		fill="#FF3131"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 21.578342 5.000002) scale(0.61994106 1.0)" >
+
+		<tspan x="12.666452" y="7.3090014">T</tspan>
+	</text>
+
+	<text 
+		font-size="6.1551027"
+		font-family="roboto"
+		stroke-width="0.29904723"
+		stroke="#FF3131"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 27.762943 4.9999995) scale(0.65076905 1.0)" >
+		<tspan x="16.026228" y="7.3089995">E</tspan>
+	</text> 
+
+	<text 
+		font-size="6.1551027"
+		font-family="roboto"
+		fill="#FF3131"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 27.762943 4.9999995) scale(0.65076905 1.0)" >
+
+		<tspan x="16.026228" y="7.3089995">E</tspan>
+	</text>
+
+	<text 
+		font-size="6.1550956"
+		font-family="roboto"
+		stroke-width="0.29904723"
+		stroke="#FF3131"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 33.94756 4.9999986) scale(0.60080314 1.0)" >
+		<tspan x="21.64818" y="7.3089986">R</tspan>
+	</text> 
+
+	<text 
+		font-size="6.1550956"
+		font-family="roboto"
+		fill="#FF3131"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 33.94756 4.9999986) scale(0.60080314 1.0)" >
+
+		<tspan x="21.64818" y="7.3089986">R</tspan>
+	</text>
+
+	<text 
+		font-size="6.1551"
+		font-family="roboto"
+		stroke-width="0.29904723"
+		stroke="#FF3131"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 40.132164 5.0) scale(0.4237149 1.0)" >
+		<tspan x="36.77759" y="7.309">M</tspan>
+	</text> 
+
+	<text 
+		font-size="6.1551"
+		font-family="roboto"
+		fill="#FF3131"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 40.132164 5.0) scale(0.4237149 1.0)" >
+
+		<tspan x="36.77759" y="7.309">M</tspan>
+	</text>
+
+	<text 
+		font-size="6.1551013"
+		font-family="roboto"
+		stroke-width="0.29904723"
+		stroke="#FF3131"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 46.316788 5.0000005) scale(0.570402 1.0)" >
+		<tspan x="31.837439" y="7.309001">U</tspan>
+	</text> 
+
+	<text 
+		font-size="6.1551013"
+		font-family="roboto"
+		fill="#FF3131"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 46.316788 5.0000005) scale(0.570402 1.0)" >
+
+		<tspan x="31.837439" y="7.309001">U</tspan>
+	</text>
+
+	<text 
+		font-size="6.155101"
+		font-family="roboto"
+		stroke-width="0.29904723"
+		stroke="#FF3131"
+		stroke-opacity="1.000"
+		fill-opacity="0"
+		text-anchor="start"
+  		transform="rotate(-0.0 52.50139 5.000001) scale(0.5900609 1.0)" >
+		<tspan x="35.14393" y="7.3090014">X</tspan>
+	</text> 
+
+	<text 
+		font-size="6.155101"
+		font-family="roboto"
+		fill="#FF3131"
+		stroke-width="0"
+		fill-opacity="1.000"
+		text-anchor="start"
+  		transform="rotate(-0.0 52.50139 5.000001) scale(0.5900609 1.0)" >
+
+		<tspan x="35.14393" y="7.3090014">X</tspan>
+	</text>
+</svg>
